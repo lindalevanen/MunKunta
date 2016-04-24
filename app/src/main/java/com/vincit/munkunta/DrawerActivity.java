@@ -22,6 +22,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+/*
+An unfinished helper-activity DrawerActivity, that implements navigation drawer to the activities extending this activity
+ */
+
 public class DrawerActivity extends AppCompatActivity {
 
     protected ActionBarDrawerToggle mDrawerToggle;
