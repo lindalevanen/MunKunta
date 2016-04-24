@@ -83,8 +83,6 @@ public class MunicipalityService extends AppCompatActivity {
                 chosenMuni = getMunicipality(entry.getKey(), allMunis);
             }
         }
-        //if not set, change the first municipality's acivity to true
-        //setMuniActivity(chosenMuni.getId().toString(), true);
         return chosenMuni;
     }
 

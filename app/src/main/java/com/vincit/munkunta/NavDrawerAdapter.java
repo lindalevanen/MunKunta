@@ -12,6 +12,7 @@ import android.widget.TextView;
 /**
  * Created by Linda on 12/04/16.
  */
+
 public class NavDrawerAdapter extends ArrayAdapter<Municipality>
 {
     private final Context context;

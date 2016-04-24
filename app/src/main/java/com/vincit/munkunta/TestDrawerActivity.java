@@ -9,6 +9,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 
+/*
+A simple activity to test DrawerActivity's features
+ */
+
 public class TestDrawerActivity extends DrawerActivity {
 
     @Override

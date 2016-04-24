@@ -246,8 +246,6 @@ public class MainViewActivity extends AppCompatActivity
      * Edits the municipality main view banner so that it fills the entire top of the screen
      */
 
-    //TODO: croppaa kuva, tällä hetkellä litistyy leveyssuunnassa
-
     public void editBanner() {
         ImageView banner = (ImageView) findViewById(R.id.banner);
 
@@ -260,13 +258,6 @@ public class MainViewActivity extends AppCompatActivity
                 .into(banner);
 
         banner.setScaleType(ImageView.ScaleType.FIT_XY);
-        //banner.setAdjustViewBounds(true);
-        /*
-        if(activeMunicipality.getId() == 2) {
-            banner.setBackgroundResource(R.drawable.imatra_banner);
-        } else {
-            banner.setBackgroundResource(R.drawable.pirkkala_back);
-        }*/
 
     }
 
