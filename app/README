@@ -1,0 +1,18 @@
+About SharedPreferences:
+
+Only followed municipalities (not all) are stored in shared preferences in the name of "Kuntavalinnat". (should this be in english?)
+Municipalities are stored as key-value-pairs (Int/String kuntaID, boolean active).
+The first parameter tells the id of the municipality, the second tells if the municipality is active as in open for the user
+so that the app will continue where the user has left off.
+
+Another SharedPreferences file called "MunKuntaBooleans" stores some important boolean values.
+Atm it has only one key-value-pair (String "hasOpened", boolean hasFinished).
+If the pair exists, the user has opened the app before.
+If the value is false, the user has not completed the municipalitySelection. If it's true, the user has completed it and the Welcome screen
+doesnt need to be shown again to the user.
+
+
+For more information:
+
+http://developer.android.com/guide/topics/data/data-storage.html#pref
+http://www.tutorialspoint.com/android/android_shared_preferences.htm

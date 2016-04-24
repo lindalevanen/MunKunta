@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MunKunta</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_newsItem_title">Uutiset</string>
+    <string name="activity_list_title">Koti</string>
+    <string name="newsListTitle">AJANKOHTAISTA</string>
+    <string name="title_activity_main_view">MainViewActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_municipality_selection">MunicipalitySelection</string>
+    <string name="welcome_text">Tervetuloa!</string>
+    <string name="welcome_info_text">Valitse yksi tai useampi kunta.</string>
+    <string name="mun_text">Mun</string>
+    <string name="kunta_text">KUNTA</string>
+    <string name="munisUpdated">Kuntavalinnat päivitetty.</string>
+    <string name="pickOneMuni">Valitse ainakin yksi kunta.</string>
+    <string name="title_activity_lo">lo</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_bloblablo">bloblablo</string>
+    <string name="title_activity_test_drawer">TestDrawerActivity</string>
+</resources>

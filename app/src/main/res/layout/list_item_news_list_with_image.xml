@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/newsitem_margin">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/small_title_size"
+        android:textColor="@color/colorPrimary"
+        android:text="Esimerkkiotsikko"
+        android:id="@+id/newsListItemWithImageHeader" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/dateColor"
+        android:layout_marginTop="5px"
+        android:text="20.02.2012"
+        android:id="@+id/newsListItemWithImageDate" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/basic_margin"
+            android:layout_marginRight="@dimen/basic_margin"
+            android:adjustViewBounds="true"
+            android:id="@+id/newsListItemImage"
+            android:layout_weight="3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/basic_margin"
+            android:textSize="@dimen/summary_size"
+            android:text="Description"
+            android:id="@+id/newsListItemWithImageDescription"
+            android:layout_weight="7" />
+    </LinearLayout>
+
+
+</LinearLayout>

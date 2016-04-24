@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CD111C</color>
+    <color name="colorPrimaryDark">#b10000</color>
+    <color name="dateColor">#a0a3ab</color>
+    <color name="separatorColor">#dedfe2</color>
+    <color name="textColor">#87888c</color>
+    <color name="lightTextColor">#FFFFFF</color>
+    <color name="doneInactive">#817373</color>
+    <color name="buttonBGactive">#87888c</color>
+    <color name="buttonBGinactive">#00FFFFFF</color>
+</resources>

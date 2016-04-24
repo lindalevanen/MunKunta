@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/classes-f391ffd9135e2e6c6609bdd4d0d14f94698eab8c.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-9936600c10bddd6058812b2e01493b6599e706e4.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta3/8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2/converter-gson-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta3-b36333c1e21544f80e67027f3ad5293faed51911.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/classes-efa5fb77f861102ea25702aa181d33dd089a05ca.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/classes-6d5f11d6ca753acf6e4a8434991a1dbd4c1285ea.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/gson-2.4-a65e0e3331c4ba99e47dc9af942a22b8a8717413.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/1.8.1/3dec9b9c7ea9342d4dbe8c38560080d85b44a015/commons-digester-1.8.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3dec9b9c7ea9342d4dbe8c38560080d85b44a015">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/commons-digester-1.8.1-fb444745421a634735dcefef6a1a026e6f432f6e.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-33360c73c23303074916f6c5361d0b9f5e27e6f1.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/classes-71a77b2f65b695513246622e295e184e61c743c1.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-82e29d1d12d4dfb0a833a1c826bd542df20d8806.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/classes-30263ca595c85c0697a9e54e62754e5cc07d0cd7.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/commons-collections-3.2.2-cb3141fa955661b417280c1c3fac79778af235ee.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/classes-e3624bd33958b272af26bfe5167120c623ed3d82.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/classes-4ede2e05e3f47799b880ee8f91b11f57fc18c086.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.5.0/26b98c21975c5caf6bf34bacdeb7183be7a65970/commons-validator-1.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="26b98c21975c5caf6bf34bacdeb7183be7a65970">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/commons-validator-1.5.0-d5e1875543c95050d8c8082eb56e814b32517a2c.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/classes-06480b31691f1e79cf2f93ed514c3051fce66dec.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.0-RC1/be7e96331952019f16dc52dce09ab25df29353d7/okhttp-3.0.0-RC1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="be7e96331952019f16dc52dce09ab25df29353d7">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/okhttp-3.0.0-RC1-40c66244ab4da58cf9f19601d2369dfb6df17920.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.2/7a87d845ad3a155297e8f67d9008f4c1e5656b71/commons-beanutils-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7a87d845ad3a155297e8f67d9008f4c1e5656b71">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/commons-beanutils-1.9.2-15386d09530a7e16baf51c2be09dff48c9160bb7.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/classes-ac8c2f263632929ac9c73ce231eebb4cde78b6b8.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-a14c0367bc8ea5b9074463d141cd737e6915b722.jar" />
+    </item>
+    <item
+        jar="/Users/Linda/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta3/97675641051febfee098903cc0eff62f2826e34e/retrofit-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97675641051febfee098903cc0eff62f2826e34e">
+        <dex dex="/Users/Linda/Dropbox/Aalto/untitled folder/vincit-mun-kunta-android/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta3-18800a3d29c19d5dcaaaa2a70ee468d65eac7dc0.jar" />
+    </item>
+
+</items>
